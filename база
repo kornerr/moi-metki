@@ -5,8 +5,8 @@
 ОПИСАНИЕ
 Добавление файлов в хранилище Git прямо в веб-приложении. Без сервера.<br>
 <ul>
-<li>Интерфейс: https://kornerr.ru/research-isomorphic-git</li>
-<li>Добавленные файлы: https://github.com/kornerr/test-isomorphic-git</li>
+<li><a href="https://kornerr.ru/research-isomorphic-git">Интерфейс для добавления файлов</a></li>
+<li><a href="https://github.com/kornerr/test-isomorphic-git">Хранилище с добавленными файлами</a></li>
 </ul>
 АДРЕС
 https://github.com/kornerr/research-isomorphic-git
