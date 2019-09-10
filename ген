@@ -1,2 +1,5 @@
 #!/bin/bash
-cat метки/* > база
+for dir in "книги" "прочее";
+do
+    cat $dir/2* > $dir/0000
+done
