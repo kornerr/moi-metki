@@ -58,3 +58,14 @@ https://docs.google.com/spreadsheets/d/1WQ4UE0pL1Jm3qyxHbVwCOcjp7AXM6677ZsW1XE-1
 Цели ОткрытыхИгр на 2019-2023
 АДРЕС
 https://docs.google.com/spreadsheets/d/1l2-JRuSsgP8L2Mx6PW9tTPnFXv8cftxyjR_aJM6Q8mo/edit?usp=sharing
+ИМЯ
+печать_кода
+ДАТА
+2019-10-11
+ОПИСАНИЕ
+Используем "enscript" для печати исходного кода:
+<pre>enscript -1 --line-numbers -p - --highlight=javascript --color=0 --word-wrap 3.js > ~/out.ps && open ~/out.ps</pre>
+<br>
+К сожалению, unicode не поддерживает
+АДРЕС
+https://qosys.info/printing-source-code-mac-os

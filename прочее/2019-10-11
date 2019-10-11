@@ -1,0 +1,11 @@
+ИМЯ
+печать_кода
+ДАТА
+2019-10-11
+ОПИСАНИЕ
+Используем "enscript" для печати исходного кода:
+<pre>enscript -1 --line-numbers -p - --highlight=javascript --color=0 --word-wrap 3.js > ~/out.ps && open ~/out.ps</pre>
+<br>
+К сожалению, unicode не поддерживает
+АДРЕС
+https://qosys.info/printing-source-code-mac-os
